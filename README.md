@@ -1,4 +1,4 @@
-# Boilerplate
+# Simple SPA Template
 `npm start` to serve app
 
 # Stack

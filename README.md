@@ -3,5 +3,6 @@
 
 # Stack
 - TypeScript
+- Eslint
 - React
 - Webpack
